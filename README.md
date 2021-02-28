@@ -8,7 +8,7 @@
 ## My GitHub stats:
 ![Profile views](https://gpvc.arturio.dev/ferenozcelik)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferenozcelik&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferenozcelik&theme=radical_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferenozcelik)](https://github.com/anuraghazra/github-readme-stats)
 
