@@ -1,5 +1,5 @@
-### Hi there 👋, Fatih Eren Özçelik
-#### 2nd year Computer Engineering Student
+## Hi there 👋, Fatih Eren Özçelik
+### 2nd year Computer Engineering Student
 
 I'm Eren from Turkey. I'm interested in Machine Learning and I really enjoy learning new things about artificial intelligence.
 
