@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Eren from Turkey. I'm 2nd year Computer Engineering student and I'm interested in Machine Learning and I really enjoy learning new things about artificial intelligence.
+### I'm Eren from Turkey. I'm 2nd year Computer Engineering student. I'm interested in Machine Learning and really enjoy learning new things about artificial intelligence.
 
 - 🌱 I’m currently learning Macine Learning and C# 
 - 👯 I’m looking to collaborate on any project 
