@@ -17,7 +17,7 @@
 ## Skills: 
 PYTHON / JAVA / C# / AI
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='40'>
-<img src='https://ibb.co/PxYngdy' alt='c#' height='40'>
+<img src='<a href="https://ibb.co/PxYngdy"><img src="https://i.ibb.co/PxYngdy/image-removebg-preview-2.png" alt="image-removebg-preview-2" border="0"></a>' alt='c#' height='40'>
 
 
 ## Find Me: 
