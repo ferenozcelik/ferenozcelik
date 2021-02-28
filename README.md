@@ -1,6 +1,5 @@
 ### Hi there 👋, Fatih Eren Özçelik
 #### 2nd year Computer Engineering Student
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Eren from Turkey. I'm interested in Machine Learning and I really enjoy learning new things about artificial intelligence.
 
