@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="60">
   <img src="https://i.ibb.co/pJWYbp0/image-removebg-preview-4.png" alt="java" height="60">
   <img src="https://i.ibb.co/zFkYFrp/image-removebg-preview-3.png" alt="c#" height="60">
-  <img src="https://i.ibb.co/Zmr2F31/Ads-z-1.png" alt="ai" height="60">
+  <img src="https://i.ibb.co/DW3mfX1/image.png" alt="vscode" height="60">
 </p>
 
 ## Find Me: 
