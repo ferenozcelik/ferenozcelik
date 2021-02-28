@@ -1,10 +1,14 @@
-## Hi there 👋,
+## Hi there 👋
 
 ### I'm Eren from Turkey. I'm 2nd year Computer Engineering student and I'm interested in Machine Learning and I really enjoy learning new things about artificial intelligence.
 
+## My GitHub stats:
 ![Profile views](https://gpvc.arturio.dev/ferenozcelik)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferenozcelik&show_icons=true)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferenozcelik)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills: 
 PYTHON / JAVA / C# / AI
