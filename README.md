@@ -15,7 +15,7 @@
 
 
 ## Skills: 
-<center><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='50'> <img src='https://i.ibb.co/pJWYbp0/image-removebg-preview-4.png' alt='java' height='50'> <img src='https://i.ibb.co/zFkYFrp/image-removebg-preview-3.png' alt='c#' height='50'> <img src='https://i.ibb.co/gZqNpy2/image-removebg-preview-6.png' alt='ai' height='50'></center>
+[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='50'> <img src='https://i.ibb.co/pJWYbp0/image-removebg-preview-4.png' alt='java' height='50'> <img src='https://i.ibb.co/zFkYFrp/image-removebg-preview-3.png' alt='c#' height='50'> <img src='https://i.ibb.co/gZqNpy2/image-removebg-preview-6.png' alt='ai' height='50'>]
 
 
 ## Find Me: 
