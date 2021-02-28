@@ -17,6 +17,7 @@
 ## Skills: 
 PYTHON / JAVA / C# / AI
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='40'>
+<img src='https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png' alt='c#' height='40'>
 
 
 ## Find Me: 
