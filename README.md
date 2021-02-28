@@ -3,7 +3,8 @@
 
 I'm Eren from Turkey. I'm interested in Machine Learning and I really enjoy learning new things about artificial intelligence.
 
-Skills: PYTHON / JAVA / C# / AI
+## Skills
+PYTHON / JAVA / C# / AI
 
 - :evergreen_tree: I’m currently learning Macine Learning and C# 
 - :christmas_tree: I’m looking to collaborate on any project 
