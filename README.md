@@ -29,4 +29,9 @@
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/erenoz)
 </p>
 
+<p align="center">
+  <a href="https://github.com/ferenozcelik"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="50">
+</p>
+  
+
 
