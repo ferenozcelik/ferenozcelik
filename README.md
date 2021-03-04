@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 ### 2nd year Computer Engineering student.
 
 ### I'm Eren from Turkey. I'm interested in Machine Learning and really enjoy learning new things about artificial intelligence.
