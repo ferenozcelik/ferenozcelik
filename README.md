@@ -24,7 +24,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ferenozcelik/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="50">
   <a href="https://www.instagram.com/erenn0z/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="50">
-  <a href="https://twitter.com/eren_ware"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="50">
   <a href="https://stackoverflow.com/users/erenoz"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="50">
 </p>
   
