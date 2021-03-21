@@ -3,7 +3,7 @@
 
 ### I'm Eren from Turkey. I'm interested in Machine Learning and really enjoy learning new things about artificial intelligence.
 
-- 🌱 I’m currently learning Macine Learning and C# 
+- 🌱 I’m currently learning Machine Learning and C# 
 - 👯 I’m looking to collaborate on any project 
 
 ## My GitHub stats:
