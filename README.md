@@ -1,31 +1,18 @@
-## Hi everyone 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ferenozcelik&theme=radical&show_icons=true">
 
+# Merhaba, ben Eren
 
-### I'm interested in Machine Learning and really enjoy learning new things about artificial intelligence.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferenozcelik" alt="ferenozcelik" /> </p>
 
-- 🌱 I’m currently learning Machine Learning and C# 
-- 👯 I’m looking to collaborate on any project 
-
-## My GitHub stats:
-![Profile views](https://gpvc.arturio.dev/ferenozcelik)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferenozcelik&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferenozcelik)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Skills: 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="60">
-  <img src="https://i.ibb.co/pJWYbp0/image-removebg-preview-4.png" alt="java" height="60">
-  <img src="https://i.ibb.co/zFkYFrp/image-removebg-preview-3.png" alt="c#" height="60">
-  <img src="https://i.ibb.co/DW3mfX1/image.png" alt="vscode" height="60">
-</p>
-
-## Find Me: 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ferenozcelik/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="50">
-  <a href="https://www.instagram.com/erenn0z/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="50">
-  <a href="https://stackoverflow.com/users/14726075/erenoz"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="50">
-</p>
+<!--- Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferenozcelik)](https://github.com/anuraghazra/github-readme-stats)
+-->
   
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferenozcelik/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://erenoz.medium.com)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenn0z)
+[![](https://img.shields.io/badge/stackoverflow-%2310605F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14726075/erenoz)
+
+[![Mail Badge](https://img.shields.io/badge/f.eren.ozcelik@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:f.eren.ozcelik@gmail.com)](mailto:f.eren.ozcelik@gmail.com)
 
 
