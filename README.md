@@ -1,6 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ferenozcelik&theme=tokyonight&show_icons=true">
 
-## this is me
+## hi
+### you won't see the greens here, i mostly use bitbucket
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferenozcelik" alt="ferenozcelik" /> </p>
 
