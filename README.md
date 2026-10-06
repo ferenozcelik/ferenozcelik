@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ferenozcelik&theme=tokyonight&show_icons=true">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=ferenozcelik&theme=tokyonight&show_icons=true"> -->
 
 ## hi
 ### you won't see the greens here, i mostly use bitbucket
