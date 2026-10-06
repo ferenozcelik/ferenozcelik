@@ -3,7 +3,7 @@
 ## hi
 ### you won't see the greens here, i mostly use bitbucket
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferenozcelik" alt="ferenozcelik" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferenozcelik" alt="ferenozcelik" /> </p> -->
 
 <!--- Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferenozcelik)](https://github.com/anuraghazra/github-readme-stats)
